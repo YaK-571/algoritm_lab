@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Кирилл\Desktop\algoritm\Iakovlev_laba_1.1\ConsoleApplication1\ConsoleApplication1.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Кирилл\Desktop\algoritm\Iakovlev_laba_1.1\ConsoleApplication1\ConsoleApplication1.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Кирилл\Desktop\algoritm\Iakovlev_laba_1.1\ConsoleApplication1\ConsoleApplication1.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Кирилл\Desktop\algoritm\Iakovlev_laba_1.1\ConsoleApplication1\ConsoleApplication1.cpp(154,37): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Кирилл\Desktop\algoritm\Iakovlev_laba_1.1\ConsoleApplication1\ConsoleApplication1.cpp(250,31): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Кирилл\Desktop\algoritm\Iakovlev_laba_1.1\ConsoleApplication1\ConsoleApplication1.cpp(287,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Кирилл\Desktop\algoritm\Iakovlev_laba_1.1\ConsoleApplication1\ConsoleApplication1.cpp(344,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Кирилл\Desktop\algoritm\Iakovlev_laba_1.1\x64\Debug\ConsoleApplication1.exe
