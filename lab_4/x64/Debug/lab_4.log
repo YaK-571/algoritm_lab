@@ -1,7 +1,0 @@
-﻿  lab_4.cpp
-C:\Users\Кирилл\Desktop\algoritm\lab_4\lab_4\lab_4.cpp(93,41): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Кирилл\Desktop\algoritm\lab_4\lab_4\lab_4.cpp(94,41): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Кирилл\Desktop\algoritm\lab_4\lab_4\lab_4.cpp(96,44): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Кирилл\Desktop\algoritm\lab_4\lab_4\lab_4.cpp(97,45): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Кирилл\Desktop\algoritm\lab_4\lab_4\lab_4.cpp(134,45): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-  lab_4.vcxproj -> C:\Users\Кирилл\Desktop\algoritm\lab_4\x64\Debug\lab_4.exe
