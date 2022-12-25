@@ -1,7 +1,0 @@
-﻿  UnitTest1.cpp
-C:\Users\Кирилл\Desktop\algoritm\lab_2.2\lab_2.2\Array.h(55,1): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
-C:\Users\Кирилл\Desktop\algoritm\lab_2.2\lab_2.2\Array.h(96): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<T>::Iterator"
-C:\Users\Кирилл\Desktop\algoritm\lab_2.2\lab_2.2\Array.h(163): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<T>"
-C:\Users\Кирилл\Desktop\algoritm\lab_2.2\lab_2.2\Array.h(110,1): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
-C:\Users\Кирилл\Desktop\algoritm\lab_2.2\lab_2.2\Array.h(140): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<T>::ConstIterator"
-  UnitTest1.vcxproj -> C:\Users\Кирилл\Desktop\algoritm\lab_2.2\x64\Debug\UnitTest1.dll
