@@ -1,0 +1,7 @@
+﻿  lab_2.2.cpp
+C:\Users\Кирилл\Desktop\algoritm\lab_2.2\lab_2.2\Array.h(49,1): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\Кирилл\Desktop\algoritm\lab_2.2\lab_2.2\Array.h(91): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<T>::Iterator"
+C:\Users\Кирилл\Desktop\algoritm\lab_2.2\lab_2.2\Array.h(159): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<T>"
+C:\Users\Кирилл\Desktop\algoritm\lab_2.2\lab_2.2\Array.h(106,1): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\Кирилл\Desktop\algoritm\lab_2.2\lab_2.2\Array.h(136): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<T>::ConstIterator"
+  lab_2.2.vcxproj -> C:\Users\Кирилл\Desktop\algoritm\lab_2.2\x64\Debug\lab_2.2.exe
